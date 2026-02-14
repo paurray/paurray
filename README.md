@@ -2,7 +2,7 @@
 
 ## 🚀 Professional Joomla & Astroid Framework Training
 
-After 30+ years as a video editor and Apple Authorized Trainer, I'm applying that same teaching methodology to Joomla development.
+After 30+ years as a video editor and Apple Authorized Trainer, I'm applying that same teaching methodology to Joomla.
 
 ### 📺 YouTube Channel
 **[Joomla · Astroid Framework · Tutorials & Training](https://www.youtube.com/@Astroid-Joomla-Seamlessly)**
