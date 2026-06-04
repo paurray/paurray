@@ -1,8 +1,9 @@
 # Paul Staub (@paurray)
 
-## 🚀 Professional Joomla & Astroid Framework Training
+## 🚀 Professional Joomla Without the Bloat
 
-After 30+ years as a video editor and Apple Authorized Trainer, I'm applying that same teaching methodology to Joomla.
+Most Joomla sites are held together by extensions nobody fully understands. There is a better way.
+After 30+ years as a professional video editor and Apple Authorized Trainer, I teach the Clean Slate Methodology -- master what you already have before buying more.
 
 ### 📺 YouTube Channel
 **[Joomla · Astroid Framework · Tutorials & Training](https://www.youtube.com/@Astroid-Joomla-Seamlessly)**
@@ -12,14 +13,6 @@ After 30+ years as a video editor and Apple Authorized Trainer, I'm applying tha
 - Clean Slate Methodology: Master what you have before buying more
 
 ### 🌐 Coming Soon
-**[joomla.solutions](https://joomla.solutions)** - Professional Joomla training that saves you $100s in hosting & extensions
-
-### 💡 Teaching Philosophy
-Stop wasting money on extensions. Core Joomla + Astroid Framework covers 90% of what you need.
-
----
-
-**Support the channel:**  
-👍 Subscribe | 💬 Comment | 🔔 Enable notifications
+**[joomla.solutions](https://joomla.solutions)** - professional Joomla training for people who want to build properly, not patch endlessly.
 
 **Components aren't the enemy. Uninformed dependency is.**
