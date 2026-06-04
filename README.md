@@ -13,6 +13,6 @@ After 30+ years as a professional video editor and Apple Authorized Trainer, I t
 - Clean Slate Methodology: Master what you have before buying more
 
 ### 🌐 Coming Soon
-**[joomla.solutions](https://joomla.solutions)** - professional Joomla training for people who want to build properly, not patch endlessly.
+**[joomla.solutions](https://joomla.solutions)** : professional Joomla training for people who want to build properly, not patch endlessly.
 
 **Components aren't the enemy. Uninformed dependency is.**
